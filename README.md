@@ -69,7 +69,7 @@ content-type filter.
   genres, languages, and content types.
 
 ## Dashboard Preview
-[Netflix Movies & TV Shows Dashboard](Dashboard/Netflix_Dashboard.png)
+![Netflix Movies & TV Shows Dashboard](Netflix_Dashboard.png)
 
 ## Skills Demonstrated
 - Data Cleaning
