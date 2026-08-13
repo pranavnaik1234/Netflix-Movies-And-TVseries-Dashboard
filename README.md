@@ -1,4 +1,3 @@
-
 # Netflix Movies & TV Shows Analytics Dashboard
 
 ## Project Overview
